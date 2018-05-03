@@ -1,6 +1,6 @@
 # R and Python Code for the Pendo API
 
-Samples of code to access Pendo API data and exploratory analyses.
+Samples of code to access Pendo API data for exploratory analyses.
 
 
 ## Author
