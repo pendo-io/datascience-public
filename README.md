@@ -1,6 +1,4 @@
-# Project Title
-
-R and Python code for the Pendo API
+# R and Python code for the Pendo API
 
 ## Author
 
