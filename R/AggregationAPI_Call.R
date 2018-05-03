@@ -1,5 +1,5 @@
 # Script to get data from the Pendo API using an aggregation for a specific end point and output the results into a csv file.
-# Author: ST, March 8, 2018
+# Author: Suja Thomas <suja@pendo.io>
 
 library(rjson)
 library(RJSONIO)
