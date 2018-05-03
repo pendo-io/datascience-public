@@ -5,7 +5,7 @@ Samples of code to access Pendo API data for exploratory analyses.
 
 ## Author
 
-* **Suja Thomas** - suja~at~pendo.io
+**Suja Thomas** 
 
 
 ## License
