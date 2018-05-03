@@ -1,0 +1,5 @@
+# Example parameters for AggregationAPI_Call.R from https://help.pendo.io/resources/support-library/api/index.html?python#source-specification
+
+integration_key = "63bd1cda-db5a-4a2b-633b-37b8b0c5462c"
+agg_endpoint = "https://app.pendo.io/api/v1/aggregation"
+data = "{\"response\":{\"mimeType\":\"application/json\"},\"request\":{\"pipeline\":[{\"source\":{\"pageEvents\":{\"pageId\":\"aJ0KOADQZVL5h9zQhiQ0q26PNTM\",\"blacklist\":\"ignore\"},\"timeSeries\":{\"first\":\"1506977216000\",\"count\":-5,\"period\":\"dayRange\"}}}]}}"
